@@ -30,15 +30,13 @@
 
 ### ⚡ GitHub Stats
 
-![Yohann's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton_pseudo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_pseudo&layout=compact&theme=radical)  
+![MoutonMesquin's Stats](https://github-readme-stats.vercel.app/api?username=MoutonMesquin&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) 
 
 ---
 
 ### 📫 Retrouve-moi sur les réseaux
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohann-dos-santos/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ton_pseudo)  
 [![HebergHub](https://img.shields.io/badge/-HebergHub-4AB197?style=for-the-badge)](https://github.com/heberghub)  
 
 ---
