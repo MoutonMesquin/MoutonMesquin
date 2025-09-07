@@ -30,7 +30,7 @@
 
 ### ⚡ GitHub Stats
 
-![MoutonMesquin's Stats](https://github-readme-stats.vercel.app/api?username=MoutonMesquin&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MoutonMesquin&theme=dark&locale=fr&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
