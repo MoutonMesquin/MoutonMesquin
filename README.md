@@ -33,7 +33,7 @@
 
 ### 📫 Retrouve-moi sur les réseaux
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohann-dos-santos/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohann-dossantos/)  
 [![HebergHub](https://img.shields.io/badge/-HebergHub-4AB197?style=for-the-badge)](https://github.com/heberghub)  
 
 ---
