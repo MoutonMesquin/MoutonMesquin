@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=46&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&height=90&lines=Yohann+Dos+Santos;Cybersecurity+%26+Infrastructure;Homelab+%7C+DevOps+%7C+Networks)](https://github.com/MoutonMesquin)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=46&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&height=90&lines=Yohann+Dos+Santos;Cybersecurity+%26+Infrastructure;Homelab+%7C+Networks+%7C+Automation)](https://github.com/MoutonMesquin)
 
-**`Bachelor Cybersécurité · Infrastructure · Réseaux · DevOps`**
+**`Cybersecurity Student · Infrastructure · Networks · DevOps`**
 
-*Je conçois, sécurise et automatise des infrastructures fiables, utiles et durables.*
+*I design, secure, and automate reliable, useful, and sustainable infrastructure.*
 
 <br/>
 
@@ -23,86 +23,85 @@
 <div align="center">
 
 ```txt
-7+ ans de homelab   ·   Audit sécurité & supervision   ·   Limoges, France 🇫🇷
+7+ years of home lab experience   ·   Security auditing & monitoring   ·   Limoges, France 🇫🇷
 ```
 
-**Ouvert à une alternance et aux opportunités en cybersécurité, infrastructure ou DevOps.**
+**Open to internships, apprenticeships, and opportunities in cybersecurity, infrastructure, or DevOps.**
 
 </div>
 
 ---
 
-## À propos
+## About Me
 
-- 🎓 Étudiant en **Bachelor Cybersécurité** à **3iL Ingénieurs**.
-- 🔐 Intéressé par la **sécurité des systèmes**, les **réseaux**, l’**audit** et l’**observabilité**.
-- 🖥️ Je développe et maintiens un **homelab depuis plus de 7 ans**.
-- 🚀 Je cofonde **HebergHub**, un projet d’hébergement éco-responsable pensé pour rendre l’infrastructure plus accessible.
-- 🤝 J’aime construire des solutions concrètes, documentées et maintenables.
+- 🎓 Cybersecurity student at **3iL Ingénieurs**.
+- 🔐 Interested in **system security**, **networks**, **auditing**, and **observability**.
+- 🖥️ I have been running a **home lab for more than 7 years**.
+- 🚀 I co-build **HebergHub**, an eco-conscious hosting project focused on accessibility and responsible infrastructure.
+- 🤝 I enjoy building practical, documented, and maintainable solutions.
 
 ## Focus
 
 ```txt
-Cybersécurité · Infrastructure · Réseaux · Self-hosting · Automatisation · Sobriété numérique
+Cybersecurity · Infrastructure · Networking · Self-hosting · Automation · Sustainable IT
 ```
 
-## Philosophie
+## Philosophy
 
 ```txt
-- la sécurité avant la complexité       - l’automatisation avant la répétition       - la documentation avant l’improvisation
-- l’observabilité avant l’aveuglement   - la fiabilité avant l’effet de mode         - la sobriété avant le gaspillage
+- security before complexity       - automation before repetition       - documentation before improvisation
+- observability before blindness   - reliability before trends          - sustainability before waste
 ```
 
-## Stack technique
+## Tech Stack
 
 <table align="center">
 <tr>
   <td align="center">
-    <strong>Systèmes & Infra</strong><br/>
+    <strong>Systems & Infra</strong><br/>
     <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,kubernetes,ansible,nginx" />
   </td>
   <td align="center">
-    <strong>Virtualisation</strong><br/>
-    <img src="https://skillicons.dev/icons?i=docker" /><br/>
+    <strong>Virtualization</strong><br/>
     Proxmox · LXC
   </td>
   <td align="center">
-    <strong>Réseaux & Sécu</strong><br/>
+    <strong>Network & Security</strong><br/>
     Cloudflare · OPNsense · OpenVPN · Wireshark · Nmap
   </td>
   <td align="center">
-    <strong>Supervision</strong><br/>
+    <strong>Monitoring</strong><br/>
     <img src="https://skillicons.dev/icons?i=grafana,prometheus,python,bash" /><br/>
     Zabbix · Graylog · Wazuh
   </td>
   <td align="center">
-    <strong>Dev & Outils</strong><br/>
+    <strong>Development & Tools</strong><br/>
     <img src="https://skillicons.dev/icons?i=python,js,php,nodejs,react,mysql,postgresql,git,github,gitlab" />
   </td>
 </tr>
 </table>
 
-## Expériences
+## Experience
 
-- **CROUS Limoges** — audit de sécurité, PSSI, conformité RGPD, intégration Graylog.
-- **Télécom Physique Strasbourg** — immersion dans un environnement technique exigeant.
-- **Homelab personnel** — expérimentation continue autour de la virtualisation, du réseau, de la supervision et de la sécurité.
+- **CROUS Limoges** — security audit, security policy work, GDPR compliance, Graylog integration.
+- **Télécom Physique Strasbourg** — experience in a demanding technical environment.
+- **Personal home lab** — ongoing experimentation in virtualization, networking, monitoring, and security.
 
-## Projet phare
+## Featured Project
 
 ### HebergHub
 
-**HebergHub** est un projet d’hébergement à faible coût avec une forte dimension éco-responsable, construit autour du réemploi de matériel et de l’accessibilité technique.  
-J’y travaille sur la structuration, l’infrastructure, la communication et le développement global du projet.
+**HebergHub** is a low-cost hosting project with a strong eco-conscious mindset, built around hardware reuse and accessibility.  
+I work on structure, infrastructure, communication, and the overall development of the project.
 
-## En ce moment
+## Currently
 
-- 🎯 Recherche d’une **alternance** en cybersécurité / infrastructure.
-- 🛠️ Développement et structuration de **HebergHub**.
-- 📚 Montée en compétences sur les environnements système, réseau et sécurité avancée.
-- 🔍 Travail autour de la supervision, de l’automatisation et de la centralisation des logs.
+- 🎯 Looking for an **apprenticeship** in cybersecurity / infrastructure.
+- 🛠️ Building and structuring **HebergHub**.
+- 📚 Expanding my knowledge in systems, networking, and advanced security.
+- 🔍 Working on monitoring, automation, and log centralization.
 
-## Activité
+## Activity
 
 <table align="center" style="border-spacing:0;">
 <tr>
@@ -115,7 +114,7 @@ J’y travaille sur la structuration, l’infrastructure, la communication et le
     <img src="https://github-readme-stats.vercel.app/api?username=MoutonMesquin&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" style="height:200px; display:block;" alt="GitHub Stats"/>
   </td>
   <td align="center" valign="top">
-    <strong>Langages</strong><br/>
+    <strong>Languages</strong><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoutonMesquin&langs_count=8&layout=compact&hide_border=true&title_color=111111&text_color=444444&bg_color=FFFFFF" style="height:200px; display:block;" alt="Top Languages"/>
   </td>
 </tr>
@@ -130,6 +129,6 @@ J’y travaille sur la structuration, l’infrastructure, la communication et le
 
 <div align="center">
 
-*"Construire des infrastructures simples, sécurisées et durables."*
+*"Building simple, secure, and durable infrastructure."*
 
 </div>
